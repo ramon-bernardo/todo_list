@@ -54,28 +54,31 @@ final class _Content extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
         child: Row(
+          mainAxisSize: MainAxisSize.min,
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  task.title,
-                  style: const TextStyle(
-                    fontSize: 14,
-                    fontWeight: FontWeight.bold,
-                    overflow: TextOverflow.ellipsis,
-                  ),
-                ),
-                if (task.description != null)
+            Flexible(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
                   Text(
-                    task.description!,
+                    task.title,
                     style: const TextStyle(
-                      fontSize: 12,
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
                       overflow: TextOverflow.ellipsis,
                     ),
                   ),
-              ],
+                  if (task.description != null)
+                    Text(
+                      task.description!,
+                      style: const TextStyle(
+                        fontSize: 12,
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
+                ],
+              ),
             ),
             if (!inDrag)
               IconButton(
