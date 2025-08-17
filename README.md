@@ -11,3 +11,11 @@ O aplicativo permite ao usuário:
 - [Flutter 3.35.1 - Dart 3.9.0](https://flutter.dev/)
 - Android Studio - Android SDK version 36.0.0
 - VS Code (ou o editor de sua preferência)
+
+## Imagens
+<p float="left">
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/EMPTY.png" width="220" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/REGISTRATION_FORM.png" width="220" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST.png" width="220" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST2.png" width="220" />
+</p>
