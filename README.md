@@ -14,8 +14,15 @@ O aplicativo permite ao usuário:
 
 ## Imagens
 <p float="left">
-  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/EMPTY.png" width="220" />
-  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/REGISTRATION_FORM.png" width="220" />
-  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST.png" width="220" />
-  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST2.png" width="220" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/EMPTY.png" width="200" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/REGISTRATION_FORM.png" width="200" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST.png" width="200" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST2.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/EMPTY_H.png" width="200" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/REGISTRATION_FORM_H.png" width="200" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST_H.png" width="200" />
+  <img src="https://github.com/ramon-bernardo/todo_list/blob/main/doc/TODO-LIST2_H.png" width="200" />
 </p>
